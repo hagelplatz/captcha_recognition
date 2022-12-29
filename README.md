@@ -1,4 +1,4 @@
-## Idea
+## Intro
 It's my idea for a diploma thesis in Machine Learning project. The project is based on comparsion of 2 methods to initial transofrmation of CAPTCHA for its recognition. The first method involves using the autoencoder (AEFPNC) to transofrmation the data. For initial training of AEFPNC I used default fonts of Windows 7 environment. In the second method I used the mathematical morphology operators. Results predicted by a simple CNN model and visualised by a few graphiс techniques (default loss & accuracy, balanced accuracy and confusion matrix). Prediction occurs for each character separately:
 <p align="center">
   <img width="30%" height="30%" src="https://user-images.githubusercontent.com/89090809/209942540-79c49c3f-d58d-4fb2-86e8-d3c35f252371.png">
